@@ -1,6 +1,7 @@
 # DateCalendarGenerator
 <pre>
-This code takes a date from any year and returns which day of the week it was and the calendar month of that day fits into.<br/>
+This code takes a date from any year and returns which day of<br/>
+the week it was and the calendar month of that day fits into.<br/>
 <br/>
 ex.<br/>
 
