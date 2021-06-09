@@ -1,4 +1,5 @@
 # DateCalendarGenerator
+<pre>
 This code takes a date from any year and returns which day of the week it was and the calendar month of that day fits into.<br/>
 <br/>
 ex.<br/>
@@ -18,3 +19,4 @@ Tuesday  <br/>
 4  |   22   23   24   25    26   27    28|<br/>
 5  |   29   30   31    x     x    x     x|<br/>
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+</pre>
